@@ -1,6 +1,6 @@
 # CS 499 Capstone ePortfolio
 
-This repository contains my Computer Science capstone ePortfolio and the cumulative enhancements to the Xena Weightloss App originally created in CS 360.
+This repository contains my Computer Science capstone and the enhancements to the Weight loss App originally created in CS 360.
 
 ## ePortfolio
 
@@ -18,6 +18,6 @@ The GitHub Pages source is located in the [docs](docs/) folder.
 
 ## Enhancement Categories
 
-1. **Software Design and Engineering:** Improved authentication, password security, user profiles, navigation, and progress-screen design.
-2. **Algorithms and Data Structures:** Added BMI, weekly averages, goal-date estimation, trend analysis, reminders, and progress visualization.
-3. **Databases:** Expanded the SQLite schema with migrations, relational integrity, calorie logs, BMI history, filtering, and stronger CRUD validation.
+1. **Software Design and Engineering:** Improved authentication, password security, and user profiles.
+2. **Algorithms and Data Structures:** Added BMI, averages, reminders, and progress visualization.
+3. **Databases:** Added calorie logs, BMI history, filtering, and better validation.
